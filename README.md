@@ -85,7 +85,3 @@ python credit_scoring.py
 - Integrate borrow/repay activity for richer scoring.
 - Cluster wallets into behavioral segments.
 - Build a real-time dashboard using Streamlit or Dash.
-
-## 📧 Contact
-
-For questions or contributions, feel free to reach out.
